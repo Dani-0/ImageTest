@@ -15,9 +15,9 @@ namespace CSHttpClientSample
     static class Program
     {
         // Add your Computer Vision subscription key and endpoint to your environment variables.
-        static string subscriptionKey = "688e533d355a42f989059e82a72179ab";
+        static string subscriptionKey = "";
 
-        static string endpoint = "https://taimagecog.cognitiveservices.azure.com/";
+        static string endpoint = "";
 
         // the Batch Read method endpoint
         static string uriBase = endpoint + "/vision/v3.1/read/analyze";
